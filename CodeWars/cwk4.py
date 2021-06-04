@@ -1,0 +1,2 @@
+def acum(s):
+	
